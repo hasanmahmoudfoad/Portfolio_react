@@ -11,6 +11,11 @@ import Layout from './Layout/Layout';
 
 export default class App extends Component {
 
+componentDidMount(){
+
+  
+}
+  
   render() {
 
     let ratty = createBrowserRouter([

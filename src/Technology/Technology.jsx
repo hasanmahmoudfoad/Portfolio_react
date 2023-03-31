@@ -3,9 +3,9 @@ import React from 'react'
 export default function Technology() {
   return (
     <>
-             <section className="tech mt-5" id="tech" >
+             <section className="tech" id="tech" >
                             <div className="relative-div">
-                                <h2 className="text-center glow font-Montserrat ">Technology</h2>
+                                <h2 className="text-center glow my-5 font-Montserrat ">Technology</h2>
                                 <div className="tech-container py-5">
                                     <div className="container">
                                         <div className="row">
